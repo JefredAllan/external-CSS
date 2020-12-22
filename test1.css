@@ -1,0 +1,26 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --fifty: #edeaec;
+    --A100: #ff83ea;
+
+    --contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #ffffff,
+        A700 : #ffffff,
+    )
+        
+  $base-color: #c6538c;
+  }
+//$base-color: #c6538c;
