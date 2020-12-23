@@ -1,0 +1,34 @@
+:root {
+    --fifty:#f3e5eb;
+    --one-hundred: #e1becc;
+    --two-hundred: #cd93ab;
+    --three-hundred: #b86789;
+    --four-hundred:#a9476f;
+    --five-hundred: #9a2656;
+    --six-hundred: #92224f;
+    --seven-hundred:#881c45;
+    --eight-hundred: #7e173c;
+    --nine-hundred: #6c0d2b;
+    --A100 : #ffa0ba;
+    --A200 : #ff6d95;
+    --A400 : #ff3a70;
+    --A700 : #ff205d;
+
+    /* Contrast */
+    --fifty:#000000;
+    --one-hundred: #000000;
+    --two-hundred: #000000;
+    --three-hundred: #000000;
+    --four-hundred:#ffffff;
+    --five-hundred: #ffffff;
+    --six-hundred: #ffffff;
+    --seven-hundred:#ffffff;
+    --eight-hundred: #ffffff;
+    --nine-hundred: #ffffff;
+    --A100 : #000000;
+    --A200 : #000000;
+    --A400 : #ffffff;
+    --A700 : #ffffff;
+
+  }
+
