@@ -15,20 +15,20 @@
     --A700 : #ff205d;
 
     /* Contrast */
-    --fifty:#000000;
-    --one-hundred: #000000;
-    --two-hundred: #000000;
-    --three-hundred: #000000;
-    --four-hundred:#ffffff;
-    --five-hundred: #ffffff;
-    --six-hundred: #ffffff;
-    --seven-hundred:#ffffff;
-    --eight-hundred: #ffffff;
-    --nine-hundred: #ffffff;
-    --A100 : #000000;
-    --A200 : #000000;
-    --A400 : #ffffff;
-    --A700 : #ffffff;
+    --contrast-fifty:#000000; 
+    --contrast-one-hundred: #000000;
+    --contrast-two-hundred: #000000;
+    --contrast-three-hundred: #000000;
+    --contrast-four-hundred:#ffffff;
+    --contrast-five-hundred: #ffffff;
+    --contrast-six-hundred: #ffffff;
+    --contrast-seven-hundred:#ffffff;
+    --contrast-eight-hundred: #ffffff;
+    --contrast-nine-hundred: #ffffff;
+    --contrast-A100 : #000000;
+    --contrast-A200 : #000000;
+    --contrast-A400 : #ffffff;
+    --contrast-A700 : #ffffff;
 
   }
 
