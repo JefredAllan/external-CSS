@@ -1,34 +1,33 @@
 :root {
-    --fifty:#f3e5eb;
-    --one-hundred: #e1becc;
-    --two-hundred: #cd93ab;
-    --three-hundred: #b86789;
-    --four-hundred:#a9476f;
-    --five-hundred: #9a2656;
-    --six-hundred: #92224f;
-    --seven-hundred:#881c45;
-    --eight-hundred: #7e173c;
-    --nine-hundred: #6c0d2b;
-    --A100 : #ffa0ba;
-    --A200 : #ff6d95;
-    --A400 : #ff3a70;
-    --A700 : #ff205d;
+  --xc-fifty:#f3e5eb;
+  --xc-one-hundred: #e1becc;
+  --xc-two-hundred: #cd93ab;
+  --xc-three-hundred: #b86789;
+  --xc-four-hundred:#a9476f;
+  --xc-five-hundred: #9a2656;
+  --xc-six-hundred: #92224f;
+  --xc-seven-hundred:#881c45;
+  --xc-eight-hundred: #7e173c;
+  --xc-nine-hundred: #6c0d2b;
+  --xc-A100 : #ffa0ba;
+  --xc-A200 : #ff6d95;
+  --xc-A400 : #ff3a70;
+  --xc-A700 : #ff205d;
 
-    /* Contrast */
-    --contrast-fifty:#000000; 
-    --contrast-one-hundred: #000000;
-    --contrast-two-hundred: #000000;
-    --contrast-three-hundred: #000000;
-    --contrast-four-hundred:#ffffff;
-    --contrast-five-hundred: #ffffff;
-    --contrast-six-hundred: #ffffff;
-    --contrast-seven-hundred:#ffffff;
-    --contrast-eight-hundred: #ffffff;
-    --contrast-nine-hundred: #ffffff;
-    --contrast-A100 : #000000;
-    --contrast-A200 : #000000;
-    --contrast-A400 : #ffffff;
-    --contrast-A700 : #ffffff;
+  /* Contrast */
+  --xc-contrast-fifty:#000000; 
+  --xc-contrast-one-hundred: #000000;
+  --xc-contrast-two-hundred: #000000;
+  --xc-contrast-three-hundred: #000000;
+  --xc-contrast-four-hundred:#ffffff;
+  --xc-contrast-five-hundred: #ffffff;
+  --xc-contrast-six-hundred: #ffffff;
+  --xc-contrast-seven-hundred:#ffffff;
+  --xc-contrast-eight-hundred: #ffffff;
+  --xc-contrast-nine-hundred: #ffffff;
+  --xc-contrast-A100 : #000000;
+  --xc-contrast-A200 : #000000;
+  --xc-contrast-A400 : #ffffff;
+  --xc-contrast-A700 : #ffffff;
 
-  }
-
+}
